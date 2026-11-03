@@ -1,5 +1,5 @@
 {
-  "name": "THE IN-BETWEEN",
+  "name": "THE IN-BETWEEN | LEVEL 0",
   "description": "An eerie liminal space inspired theme.",
   "authors": [
     {
@@ -687,5 +687,11 @@
     "ggsans-ExtraBold": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmmono/DMMono-Medium.ttf",
     "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmmono/DMMono-MediumItalic.ttf",
     "SourceCodePro-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmmono/DMMono-Regular.ttf"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/gda75981-spec/the-in-between/main/backrooms-level-0.jpg",
+    "blur": 0,
+    "alpha": 0.75,
+    "color": "#171613"
   }
 }
